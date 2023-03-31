@@ -20,7 +20,6 @@
 - A passionate developer
 - Natural language processing enthusiast
 - Currently working towards making open source contributions
-<!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1BS5ltRlNXM0gEJctHbE4uIsKdEF_PePu/view?usp=sharing)
 
 <br><br>
@@ -109,7 +108,7 @@
 
 <li>
 <a href="https://linkedin.com/in/sumedh-vichare" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  sumedh-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -117,7 +116,7 @@
 
 <li>
 <a href="https://twitter.com/sumedhvichare1" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter:  sumedh-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -125,7 +124,7 @@
 
 <li>
 <a href="mailto:sumedhuvichare@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  sumedh-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	

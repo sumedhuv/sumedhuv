@@ -16,7 +16,7 @@
 - Natural language processing enthusiast
 - Currently working towards making open source contributions
 - Find my website [here](https://sumedh-vichare.netlify.app/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1BS5ltRlNXM0gEJctHbE4uIsKdEF_PePu/view?usp=sharing)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1gNf7jJyZoAHgqJ57kaUTrssXBrVbAv1M/view?usp=sharing)
 
 <br><br>
 
